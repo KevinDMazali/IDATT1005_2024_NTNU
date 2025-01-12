@@ -18,7 +18,7 @@ teacher assistants played the role of advisors and mentors
 
 ## Usage
 
-`mvn clean javafx:run`
+Create a run configuration with  `mvn clean javafx:run` or type mvn clean javafx:run into the terminal
 
 
 ## Project status
